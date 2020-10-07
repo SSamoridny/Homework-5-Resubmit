@@ -1,7 +1,9 @@
 # Homework-5-Resubmit
-I had major issues with this file. I had submitted it on September 26th and over the weekend had some computer issues which then deleted some files. As I made a few last minute changes I had error messages in my terminal and as I checked my link it was no longer working properly. I was able to redo the files but I ended up deleting the old repository and then doing a one time push to update the files which is why you will see the one push. Looking back I probably shouldn't have panicked and done that but I was worried about waiting until Monday. 
+Weekday Planner
 
-This is the Homework 5 dayplanner which has the functionality that was asked of it. 
+In this project we used HTML, CSS, Bootstrap and JavaScript to build a week day planner that scrolls through the hours of your workday and highlights upcoming, past and future appointments. Using local storage we were able to keep appointments in your planner through refreshing of the borwser and also gave the ability to delete these items when you were ready to move to a new day. The second part of the project involved having the hours colour coded to show current, past and present time in an effort to alert you to where you stood in your workday.  
 
 Thank you,
 Shaun Samoridny
+
+![Day Planner](https://user-images.githubusercontent.com/30538162/95387486-01a73880-08ae-11eb-8e20-1488bd3b7d63.png)
